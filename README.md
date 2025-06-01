@@ -13,7 +13,7 @@
 ## Данные для работы
 - [Данные по продажам с вебинара](https://github.com/EvgenyGladyshev/Cohort_analysis/blob/master/spent.csv)
 - [Данные по канал](https://raw.githubusercontent.com/EvgenyGladyshev/Cohort_analysis/refs/heads/master/data.csv)
-- [Код проведения когортного анализа](https://github.com/EvgenyGladyshev/Cohort_analysis/blob/master/cohort_analysis.py)
+- [Код проведения когортного анализа](https://github.com/EvgenyGladyshev/Cohort_analysis/blob/master/cohort_analysis.py) (в строке `21` и `59` меняем источник на *ВК, Инстаграм, Яндекс или Телеграм* для изменения источника)
 - [Бизнес-выводы и рекомендации](https://github.com/EvgenyGladyshev/Cohort_analysis/blob/master/insights.md)
 
 ## Запуск скрипта

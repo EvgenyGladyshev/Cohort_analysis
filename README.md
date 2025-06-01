@@ -11,10 +11,10 @@
 3. Сформированы выводы об окупаемости рекламных кампаний и каналов привлечения.
 
 ## Данные для работы
-- [Данные по продажам с вебинара]()
-- [Данные по канал]()
-- [Код проведения когортного анализа]()
-- [Бизнес-выводы и рекомендации]()
+- [Данные по продажам с вебинара](https://github.com/EvgenyGladyshev/Cohort_analysis/blob/master/spent.csv)
+- [Данные по канал](https://raw.githubusercontent.com/EvgenyGladyshev/Cohort_analysis/refs/heads/master/data.csv)
+- [Код проведения когортного анализа](https://github.com/EvgenyGladyshev/Cohort_analysis/blob/master/cohort_analysis.py)
+- [Бизнес-выводы и рекомендации](https://github.com/EvgenyGladyshev/Cohort_analysis/blob/master/insights.md)
 
 ## Запуск скрипта
 
